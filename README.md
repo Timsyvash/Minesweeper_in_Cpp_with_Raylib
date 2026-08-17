@@ -1,2 +1,18 @@
-# Minesweeper in C++ (Raylib) 
-"# Minesweeper_in_Cpp_with_Raylib" 
+# Minesweeper in C++ (Raylib)
+
+Класична гра "Сапер", реалізована мовою C++ з використанням графічної бібліотеки **Raylib**.
+
+## 🎮 Керування
+* **Ліва кнопка миші (LMB)** — відкрити клітинку.
+* **Права кнопка миші (RMB)** — поставити/зняти прапорець.
+* **Клавіша R** — перезапустити гру.
+
+## 🛠 Залежності та вимоги
+* Стандарт C++: **C++17** або новіше.
+* Бібліотека: **Raylib 4.x / 5.x**.
+* Компілятор: MSVC (Visual Studio 2022) / GCC / Clang.
+
+## 🚀 Як зібрати та запустити
+1. Клонуйте репозиторій:
+   ```bash
+   git clone [https://github.com/ваш_логін/Minesweeper-Raylib.git](https://github.com/ваш_логін/Minesweeper-Raylib.git)
