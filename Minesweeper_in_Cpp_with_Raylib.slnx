@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Minesweeper_in_Cpp_with_Raylib/Minesweeper_in_Cpp_with_Raylib.vcxproj" Id="f685cf61-80bc-486d-8772-2a55ec9a2837" />
+</Solution>
